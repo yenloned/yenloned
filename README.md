@@ -7,7 +7,7 @@ I am Rudy, a sophomore Computer Science student from Hong Kong. Welcome to my Gi
 * Higher Diploma in Information Security @[HKUSPACE](https://hkuspace.hku.hk/) 2020 -2022
 
 #### ⚡ Experience
-* IT Intern (Web Developer) @[ESDlife Digital Solution](https://ds.esdlife.com/) - Full Stack Development on HKTDC web production [Summer 2022]
+* IT Intern (Web Application Developer) @[ESDlife Digital Solution](https://ds.esdlife.com/) - Full Stack Development on HKTDC web production [Summer 2022]
 * Assoicate Security Analyst @[Cerberus Security Limited](https://www.cerberusoc.com/) - SIEM on Security Operation Center [Jun 2021 - May 2022]
 
 #### 💡 Highlighted Projects
