@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rudy, a sophomore Computer Science student from Hong Kong.. Welcome to my GitHub Profile!
+I am Rudy, a sophomore Computer Science student from Hong Kong. Welcome to my GitHub Profile!
 
 #### 📚 Education
 * Bachelor of Engineering in Computer Science @[HKUST](https://hkust.edu.hk/) 2022-2025
