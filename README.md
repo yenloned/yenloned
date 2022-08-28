@@ -12,7 +12,7 @@ I am Rudy, a sophomore Computer Science student from Hong Kong. Welcome to my Gi
 
 #### 💡 Highlighted Projects
 * [AuctionHouse](https://auctionhouse-web.netlify.app/) - Real-time Mock Bidding Platform by Socket.IO + GraphQL API
-* [PiggyBank](https://piggybank-web.netlify.app/) - Mock Banking Web by RESTful API
+* [PiggyBank](https://piggybank-web.netlify.app/) - Mock Banking Web by MERN + RESTful API
 
 #### 👥 Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudyyen/)
