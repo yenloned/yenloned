@@ -7,6 +7,7 @@ I am Rudy, a sophomore Computer Science student from Hong Kong. Welcome to my Gi
 * Higher Diploma in Information Security @[HKUSPACE](https://hkuspace.hku.hk/) 2020 -2022
 
 #### ⚡ Experience
+* Software Development Intern @[The Grind Limited](https://www.thegrind-app.com/) [Feb 2023 - Present]
 * Student Helper - Web Application Developer @[HKUST](https://hkust.edu.hk/) [Jan 2023 - Present]
 * Software Developer @[Civtek](https://civtek.dev/) [Nov 2022 - Present]
 * Web Developer @[USThing](https://usthing.xyz/) [Oct 2022 - Present]
