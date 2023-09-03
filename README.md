@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rudy, a Computer Science student from Hong Kong. Welcome to my GitHub Profile!
+I am Rudy, a Computer Science student from Hong Kong. Welcome to my GitHub Profile!<br />
 I didn't update my repositories much because I am lazy
 
 #### 📚 Education
