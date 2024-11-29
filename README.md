@@ -8,7 +8,7 @@ I didn't update my repositories much because I am lazy
 * Higher Diploma in Information Security @[HKUSPACE](https://hkuspace.hku.hk/) 2020 -2022
 
 #### ⚡ Experience
-* Core Web Developer @[USThing](https://usthing.xyz/) [Oct 2022 - Present]
+* Core Web Developer @[USThing](https://usthing.xyz/) [Oct 2022 - Dec 2023]
 * Software Engineer Intern @[Sleekflow](https://sleekflow.io/) [Jun 2023 - Aug 2023]
 * Backend Developer @[HKUST PathAdvisor](https://pathadvisor.ust.hk/) [Sep 2022 - Jun 2023]
 * Student Helper - Web Application Developer @[HKUST](https://hkust.edu.hk/) [Jan 2023 - May 2023]
